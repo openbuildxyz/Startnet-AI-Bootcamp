@@ -95,10 +95,7 @@ Session 5: AI Agents 实战
 | [Task 3](task/03_NFTMarket_Contract.md)              | NFTMarket Contract | 编写并部署一个NFTMarket的合约      |
 | [Task 4](task/04_NFTMarket_Component.md)             | NFTMarket Components | 使用ethers.js和wagmi与NFTMarket合约交互         |
 | [Task 5](task/05_NFTMarket_Dapp.md)             | NFTMarket Dapp  | 开发一个完整的NFTMarket的Dapp         |
-| [Task 6](task/06_Uniswap_SDK.md)          | Uniswap SDK | 完成SDK学习，制作一个与uniswap交互的前端app    |
-| [Task 7](task/07_EVM++_Demo.md)          | web3小工具实践 | 跟随[教程](https://fanatical-krypton-122.notion.site/OpenBuild-Frontend-Bootcamp-5e62657ab5774786b1901bfd862e8e9a?pvs=4)学习EVM++，实现一个限流器demo   |
-| [Task 8](task/08_Hello_Morph.md)          | Hello Morph |  在Morph Holesky上部署任意合约并在Morph浏览器上验证   |
-| [Task 9](task/09_Hello_TheGraph.md)          | Hello TheGraph |  为NFTMarket创建一个The Graph子图   |
+
 
 ## 参考资料
 
