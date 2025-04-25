@@ -24,11 +24,11 @@
 
 ### ⭐ 学习大纲 ⭐
 
-一、Session 1: Fundamentals 从 0-1 带你了解 Starknet 基础知识（[官网](https://openbuild.xyz/learn/challenges/2036589711/1716360050) | [哔站]() | [油管](https://www.youtube.com/watch?v=6T_NW733lbE)）
+Session 1: Fundamentals 从 0-1 带你了解 Starknet 基础知识（[官网](https://openbuild.xyz/learn/challenges/2036589711/1716360050) | [哔站]() | [油管](https://www.youtube.com/watch?v=6T_NW733lbE)）
 
-二、Session 2: Smart Contracts 智能合约（[官网](https://openbuild.xyz/learn/challenges/2036589711/1716360063) | [哔站]() | [油管](https://www.youtube.com/watch?v=sXKp87e30UE)）
+Session 2: Smart Contracts 智能合约（[官网](https://openbuild.xyz/learn/challenges/2036589711/1716360063) | [哔站]() | [油管](https://www.youtube.com/watch?v=sXKp87e30UE)）
 
-三、Testing Smart Contracts 智能合约实战（[官网](https://openbuild.xyz/learn/challenges/2063566106/1743337345) | [哔站]() | [油管](https://www.youtube.com/watch?v=_fafV7NXNhY)）
+Session 3: Testing Smart Contracts 智能合约实战（[官网](https://openbuild.xyz/learn/challenges/2063566106/1743337345) | [哔站]() | [油管](https://www.youtube.com/watch?v=_fafV7NXNhY)）
 
 Session 4: Frontend 前端开发实战
 
