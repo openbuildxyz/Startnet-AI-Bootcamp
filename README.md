@@ -6,6 +6,8 @@
 
 本次「[Starknet AI Bootcamp](https://openbuild.xyz/learn/challenges/2063566106)」由 [Starknet](https://www.starknet.io/)、[OpenBuild](https://openbuild.xyz/) 和 [Coset](https://coset.io/) 共同发起。通过系统的课程和共同学习机制，帮助更多开发者丝滑进入 Web3。与此同时，本训练营以实战为导向，一步步熟悉和掌握 Web3 代码开发。 [了解更多](https://mp.weixin.qq.com/s/J3vJ5YEKNfzujVWILEcN0w)
 
+![Bootcamp](./public/bootcamp.png)
+
 ### ⭐ 核心亮点 ⭐ 
 ✅ 小白友好：从 0 到 1 逐步引导，社群互动，课后 quiz 和 task  
 ✅ 灵活学习：录播及答疑，适合不同学习节奏  
