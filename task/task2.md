@@ -8,7 +8,7 @@
 
 请编写一个函数，根据购买的苹果数量计算订单总价。
 
-```cario
+```Cairo
 // Put your function here!
 fn calculate_price_of_apples{
 

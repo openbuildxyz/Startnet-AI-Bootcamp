@@ -71,8 +71,8 @@
 | Task                     | 描述                                                                                 | 
 |--------------------------|--------------------------------------------------------------------------------------|
 | [task1](./task/task1.md) | 完成 [quiz](https://openbuild.xyz/quiz/2025041601) 并提交截图，即可获得 10\$STRK     |
-| [task2](./task/task2.md) | 完成 cairo 语言的线上练习，实现 Quizs 1 中的函数                                     |
-| [task3](./task/task3.md) | 完成一个 counter 计数器合约                                                          |
+| [task2](./task/task2.md) | 完成 Cairo 语言的线上练习，实现 Quizs 1 中的函数                                     |
+| [task3](./task/task3.md) | 完成一个 Counter 计数器合约                                                          |
 | [task4](./task/task4.md) | 完成 Counter 合约的前端调用                                                          |
 | [task5](./task/task5.md) | 完成一个功能完整的 Starknet AI Agent 项目                                            |
 
