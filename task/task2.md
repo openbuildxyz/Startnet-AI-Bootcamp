@@ -3,8 +3,8 @@
 完成 Cairo 语言的[线上练习](https://starklings.app/)，然后实现 Quizs 1 的 `calculate_price_of_apples` 函数并提交。
 
 玛丽正在购买苹果。苹果的价格计算方式如下：
-- 每个苹果价格为3个 cariobuck。
-- 如果玛丽购买超过40个苹果，每个苹果只需2个 cariobuck。
+- 每个苹果价格为3个 cairobuck。
+- 如果玛丽购买超过40个苹果，每个苹果只需2个 cairobuck。
 
 请编写一个函数，根据购买的苹果数量计算订单总价。
 
