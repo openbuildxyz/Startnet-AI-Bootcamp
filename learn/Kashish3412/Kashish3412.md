@@ -1,0 +1,4 @@
+- 昵称：  Kashish
+- OpenBuild 用户名：  qHdUDZnw
+- Starknet 主网钱包地址：  (**0x0612ccf46630caad3b1afd5a7119fe7ce96950d11336e5df97014f731ce5845e**)
+- 自我介绍： I am kashish and i love exploring new tech currently into ML and Blockchain
