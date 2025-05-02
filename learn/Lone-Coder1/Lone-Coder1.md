@@ -1,4 +1,4 @@
 - 昵称：  Lone
 - OpenBuild 用户名：  4fH5XtST
 - Starknet 主网钱包地址：  (**0x05611a340165c8a817a0e180b35713ea061adbe854bc3930977171bb33fcfca1**)
-- 自我介绍： Just started Web3
+- 自我介绍： Just started Web3, have experience building basic projects
