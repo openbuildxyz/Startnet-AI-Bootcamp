@@ -1,0 +1,4 @@
+- 昵称：Emma
+- OpenBuild 用户名：EmmaHan23
+- Starknet 主网钱包地址：0xCb5E8D700dc70Ed0861bf81E7fD12c962baB9A8f  
+- 自我介绍：我是Emma，90后的末尾，土木工程管理和供应链管理背景，目前是硬科技、ai相关行业投资人。学生时代接触过python、matlab、R，也用编程做过数学建模和工业仿真，浅尝辄止。25年初接触开发，也期待从新的技术视角看待ai。
