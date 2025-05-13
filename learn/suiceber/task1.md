@@ -2,7 +2,8 @@
 
 完成一个关于 Starknet 基础知识的 [Quiz](https://openbuild.xyz/quiz/2025041601)，然后提交截图，即可获得 10\$STRK 奖励！
 
-Quiz 截图： ![quiz.png](quiz.png)
+Quiz 截图：<img width="1404" alt="quiz" src="https://github.com/user-attachments/assets/a9fb8c8a-1cbf-425d-8b86-eae87868d4a0" />
+
 
 
 
