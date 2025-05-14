@@ -28,3 +28,6 @@
 | vibhorsingh2103  | 0x01261ca996922fa0365c8d1b9e9ccc35aaa4ef8ae5826e45c6cf44039ad68261 | [10 STRK](https://starkscan.co/tx/0x057c723b179c198d5efea0dfa7d3050459addc45349c5bdcd90cb02da3ea766d) |
 | vivek20034       | 0x03E198484D225BCf105512A4922e51011dcB8f006b6B120326379481397fa1E4 | [10 STRK](https://starkscan.co/tx/0x0233cf953872253488b17a904b9f0895ef2f1f241ce25c8029d1ca6c23b5b289) |
 | YashSharma177619 | 0x02db39e84deb717002cb56efab55cd74706bd65315c35846c83cf550aee29ec0 | [10 STRK](https://starkscan.co/tx/0x0082c8fb9e259abcddf0b12461bd3e947e8f5deb1b38e405fd785c6f6429f8c5) |
+| Alfred           | 0x071ccc58f222c97af17af5ddde54a473a510275ab13e23b978fb9c22b11b9c90 | [10 STRK](https://starkscan.co/tx/0x07dc19578fc94a3e6fbc9b292d073c3fe6e4ba8b553bb02a48dff3e7a7415ab5) |
+| suiceber         | 0x055561aE37054E9D18F1b69bb4662A58d8B9e5694cb548D6018805c58E9FF295 | [10 STRK](https://starkscan.co/tx/0x0095afc4d1e58d2f8a982850d66426341e9970fbdabff66f9580d2636cbf036b) |
+
