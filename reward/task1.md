@@ -31,3 +31,5 @@
 | Alfred           | 0x071ccc58f222c97af17af5ddde54a473a510275ab13e23b978fb9c22b11b9c90 | [10 STRK](https://starkscan.co/tx/0x07dc19578fc94a3e6fbc9b292d073c3fe6e4ba8b553bb02a48dff3e7a7415ab5) |
 | suiceber         | 0x055561aE37054E9D18F1b69bb4662A58d8B9e5694cb548D6018805c58E9FF295 | [10 STRK](https://starkscan.co/tx/0x0095afc4d1e58d2f8a982850d66426341e9970fbdabff66f9580d2636cbf036b) |
 | ctyweb3          | 0x0179477edab8ab39d39667af2edd9a950cb6c394bdecd655e48bc80bc726dfcd | [10 STRK](https://starkscan.co/tx/0x05307cb3bf4b0af16072e2a9d23e1fc975a9a92d27c14ea50151cc3bb5c70ff2) |
+| tauora           | 0x06b24aab1fd002a0198b1f48cc35541a0412d8425d033298e3365e40637787cc | [10 STRK](https://starkscan.co/tx/0x07951da7cd87544d3dc11bbcda78cd12c4d63b20ae7cfff6d0bb2cc364193f4d) |
+
