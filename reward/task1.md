@@ -28,8 +28,11 @@
 | vibhorsingh2103  | 0x01261ca996922fa0365c8d1b9e9ccc35aaa4ef8ae5826e45c6cf44039ad68261 | [10 STRK](https://starkscan.co/tx/0x057c723b179c198d5efea0dfa7d3050459addc45349c5bdcd90cb02da3ea766d) |
 | vivek20034       | 0x03E198484D225BCf105512A4922e51011dcB8f006b6B120326379481397fa1E4 | [10 STRK](https://starkscan.co/tx/0x0233cf953872253488b17a904b9f0895ef2f1f241ce25c8029d1ca6c23b5b289) |
 | YashSharma177619 | 0x02db39e84deb717002cb56efab55cd74706bd65315c35846c83cf550aee29ec0 | [10 STRK](https://starkscan.co/tx/0x0082c8fb9e259abcddf0b12461bd3e947e8f5deb1b38e405fd785c6f6429f8c5) |
-| Alfred           | 0x071ccc58f222c97af17af5ddde54a473a510275ab13e23b978fb9c22b11b9c90 | [10 STRK](https://starkscan.co/tx/0x07dc19578fc94a3e6fbc9b292d073c3fe6e4ba8b553bb02a48dff3e7a7415ab5) |
 | suiceber         | 0x055561aE37054E9D18F1b69bb4662A58d8B9e5694cb548D6018805c58E9FF295 | [10 STRK](https://starkscan.co/tx/0x0095afc4d1e58d2f8a982850d66426341e9970fbdabff66f9580d2636cbf036b) |
 | ctyweb3          | 0x0179477edab8ab39d39667af2edd9a950cb6c394bdecd655e48bc80bc726dfcd | [10 STRK](https://starkscan.co/tx/0x05307cb3bf4b0af16072e2a9d23e1fc975a9a92d27c14ea50151cc3bb5c70ff2) |
 | tauora           | 0x06b24aab1fd002a0198b1f48cc35541a0412d8425d033298e3365e40637787cc | [10 STRK](https://starkscan.co/tx/0x07951da7cd87544d3dc11bbcda78cd12c4d63b20ae7cfff6d0bb2cc364193f4d) |
+| Himanshi260      | 0x0322e2B871CFEF26E820d398986aD5Eac330A5Af89CB46Cdc76C53a26610DFB1 | [10 STRK](https://starkscan.co/tx/0x04e7f7d1dc0fbbed29c117f1f33d30edb3ddf40df849763b7fb055dcfbc6ba13) |
+| Manan20031       | 0x02e943fa0dDF396Fe7D16c1E3C8751981d08EFe4e8621A120A10481f3ff81eBe | [10 STRK](https://starkscan.co/tx/0x03440aba2c4b85147bc5a0fb306544860d8674639fadfc186ac0c5d09847eee1) |
+| Saksham01032     | 0x049B1B762Ae19e1998E4C09316448eEaD2e58B11f5Bf2A6243aE021aA17d5985 | [10 STRK](https://starkscan.co/tx/0x03e6b1ca62e4b81cbe6ca90aaf5b4b8e9f02f4103fab5c632e4a9dd19b8e3356) |
+| Sneha100303      | 0x02F6ed01A68254235A5ec935e7093E21Fc83ccE349dcBaA3415d8Ffe3DB28437 | [10 STRK](https://starkscan.co/tx/0x044ef47584bb1110d0e6eb67f8a356755f9651c5247771e8844c2a680c5ea939) |
 
