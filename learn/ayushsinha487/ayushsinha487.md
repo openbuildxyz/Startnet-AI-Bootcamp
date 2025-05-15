@@ -1,4 +1,4 @@
 - 昵称：ayush sinha 
 - OpenBuild 用户名: gNAnUB2Z
-- Starknet 主网钱包地址: 0x000e2b6a844B563439988a379126459b4cD46fCeC213BD2182507082b8c0fFB4
+- Starknet 主网钱包地址: 0x03d2ad985A881Fe683f1259BB782A2607461BfE19915701e60a7936085Cef4CF
 - 自我介绍: Flutter Blockchain Developer
