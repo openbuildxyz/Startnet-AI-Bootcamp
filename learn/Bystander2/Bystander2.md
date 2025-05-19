@@ -1,0 +1,4 @@
+- 昵称： Bystander2
+- OpenBuild 用户名： sakurasoga7
+- Starknet 钱包地址：0x057D513A19A584Ed196A6FF6185Fe764616e60CEc99Dde585Ff637526A50435c
+- 自我介绍：前端，刚进入 web3 领域
