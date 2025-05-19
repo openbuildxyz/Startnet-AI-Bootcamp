@@ -1,4 +1,0 @@
-- 昵称：  SID_BRO
-- OpenBuild 用户名： TZkFcjeb
-- Starknet 主网钱包地址：  (**0x03038c344e92fc054faee6e0811c405510d2a6a0b99a1bee95fdd7b39b1dd248**)
-- 自我介绍：  A newbie blockchain developer
