@@ -1,0 +1,4 @@
+- 昵称：Alfred
+- OpenBuild 用户名：fuhaooo
+- Starknet 主网钱包地址： 0x071ccc58f222c97af17af5ddde54a473a510275ab13e23b978fb9c22b11b9c90
+- 自我介绍：Web3 Builder，渴望早日被AI取代的程序员
