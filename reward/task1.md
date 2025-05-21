@@ -42,5 +42,11 @@
 | Alfred           | 0x071ccc58f222c97af17af5ddde54a473a510275ab13e23b978fb9c22b11b9c90 | [10 STRK](https://starkscan.co/tx/0x07dc19578fc94a3e6fbc9b292d073c3fe6e4ba8b553bb02a48dff3e7a7415ab5) |
 | Alivin           | 0x061a296b11eb44a1888e6d3e8beddca676540ef7e1cb844c4bcf2da4e0473a7c | [10 STRK](https://starkscan.co/tx/0x05716a418448cc0aecf2449ec450eee2780064d7ee460773e718957d86e5f0fc) |
 | Bystander2       | 0x057D513A19A584Ed196A6FF6185Fe764616e60CEc99Dde585Ff637526A50435c | [10 STRK](https://starkscan.co/tx/0x02ef6d65ac7194ae8b7f69bf7054eb320c5a98e4d2589b76d25a5e89d321fc2d) |
-| JasonRUAN        | 0x059c35e83ecf435709ece71d5d77f4e02f32e3aca16ecdc3b98cad1eb235b96d | [10 STRK](https://starkscan.co/tx/0x02ef6d65ac7194ae8b7f69bf7054eb320c5a98e4d2589b76d25a5e89d321fc2d) |
+| JasonRUAN        | 0x059c35e83ecf435709ece71d5d77f4e02f32e3aca16ecdc3b98cad1eb235b96d | [10 STRK](https://starkscan.co/tx/0x0517b799fbda7656ec1c551e8c2abbdb58e2be1c016ebe509a922638b0db18c4) |
+| Hitanshu468      | 0x06f768a3d3bc1add93248bc989869452d57d03c25c6f2b4be43fce7507e2dfed | [10 STRK](https://starkscan.co/tx/0x018bdbb474d22f9a529208b7697230cd9298c2dcf85f82d72261bdb1e1a4d30d) |
+| Jatinsinha03     | 0x06162815775c361b88ea79aa60d3f1c7e513f712001c70b081585e64c6725e0e | [10 STRK](https://starkscan.co/tx/0x03e61f414efbc353ab76eb3598659c7b061334547dff5cf9387dec729b60fc64) |
+| lispking         | 0x04a8e36280fccee30c648d54563dfb6d6a34f38e8dd7c03deecfa106b117c5e0 | [10 STRK](https://starkscan.co/tx/0x06210f4d04b340e055617a1b1394c8e9c4b44d7a02062b6febc7228b9811a519) |
+| Parth6920375     | 0x0047e134e95eaa5cc9c161b192c58c001ab93d22ea820e64cef7819dbf03b19c | [10 STRK](https://starkscan.co/tx/0x02746fee1dc9f0a0020566b7cf434716bfd4b8dbee4e5727ff723c94610983ef) |
+| ququzone         | 0x0646D5E7D8014Fd5f6643C15Ee14a96540c81aF1Af432Fab3C68411a9895D554 | [10 STRK](https://starkscan.co/tx/0x032e4c75ee9521fca70bbea7707a1a94f4297362df5968606cecb474da4df52d) |
+| SidBro679        | 0x03038c344e92fc054faee6e0811c405510d2a6a0b99a1bee95fdd7b39b1dd248 | [10 STRK](https://starkscan.co/tx/0x07b626898d5464756311f3e1533a1721aa44a7db733a52916a89b568ce0e279e) |
 
