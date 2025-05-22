@@ -1,0 +1,4 @@
+- 昵称： Alivin
+- OpenBuild 用户名： Alivin
+- Starknet 主网钱包地址： (**0x061a296b11eb44a1888e6d3e8beddca676540ef7e1cb844c4bcf2da4e0473a7c**)
+- 自我介绍： 前端废柴，合约开发中 ing
