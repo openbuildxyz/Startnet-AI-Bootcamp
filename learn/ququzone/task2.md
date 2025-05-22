@@ -16,9 +16,12 @@
 
 ```Cairo
 // Put your function here!
-fn calculate_price_of_apples{
-
-
+fn calculate_price_of_apples(amount: usize) -> usize {
+	if amount <= 40 {
+		amount * 3
+	} else {
+		amount * 2
+	}
 }
 
 // Do not change the tests!
