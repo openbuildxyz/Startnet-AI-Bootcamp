@@ -49,4 +49,5 @@
 | Parth6920375     | 0x0047e134e95eaa5cc9c161b192c58c001ab93d22ea820e64cef7819dbf03b19c | [10 STRK](https://starkscan.co/tx/0x02746fee1dc9f0a0020566b7cf434716bfd4b8dbee4e5727ff723c94610983ef) |
 | ququzone         | 0x0646D5E7D8014Fd5f6643C15Ee14a96540c81aF1Af432Fab3C68411a9895D554 | [10 STRK](https://starkscan.co/tx/0x032e4c75ee9521fca70bbea7707a1a94f4297362df5968606cecb474da4df52d) |
 | SidBro679        | 0x03038c344e92fc054faee6e0811c405510d2a6a0b99a1bee95fdd7b39b1dd248 | [10 STRK](https://starkscan.co/tx/0x07b626898d5464756311f3e1533a1721aa44a7db733a52916a89b568ce0e279e) |
+| Anshika479       | 0x046dd0b24bea71a4b3e2c61a0658f996a37cea2f5a6ae00c1aa1e910d14da154 | [10 STRK](https://starkscan.co/tx/0x0650a6dafe87900a4cd16c7b8edeee4e8c88fcbff434e2fc5a329302ded56240) |
 
