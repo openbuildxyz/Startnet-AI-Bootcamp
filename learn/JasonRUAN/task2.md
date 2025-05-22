@@ -29,3 +29,5 @@ fn verify_test() {
 	assert(130 == price4, 'Incorrect price');
 }
 ```
+
+![image-20250522212621070](./assets/image-20250522212621070.png)
